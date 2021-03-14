@@ -1,0 +1,15 @@
+2021/03/10-09:22:18.465 b34 Reusing MANIFEST /home/simeon/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/10-09:22:18.465 b34 Recovering log #4
+2021/03/10-09:22:18.465 b34 Reusing old log /home/simeon/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/000004.log 
+2021/03/10-09:22:57.443 b36 Level-0 table #8: started
+2021/03/10-09:22:57.446 b36 Level-0 table #8: 3637 bytes OK
+2021/03/10-09:22:57.448 b36 Delete type=0 #4
+2021/03/10-09:22:57.449 b36 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/10-09:22:57.449 b36 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x17\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s\x00/\x00c\x00o\x00n\x00e\x00m\x00u' @ 937 : 1
+2021/03/10-09:22:57.449 b36 Compacting 1@1 + 1@2 files
+2021/03/10-09:22:57.452 b36 Generated table #9@1: 99 keys, 4879 bytes
+2021/03/10-09:22:57.452 b36 Compacted 1@1 + 1@2 files => 4879 bytes
+2021/03/10-09:22:57.454 b36 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/10-09:22:57.454 b36 Delete type=2 #5
+2021/03/10-09:22:57.454 b36 Delete type=2 #8
+2021/03/10-09:22:57.454 b36 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x17\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s\x00/\x00c\x00o\x00n\x00e\x00m\x00u' @ 937 : 1 .. (end); will stop at (end)

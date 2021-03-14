@@ -1,0 +1,7 @@
+2021/03/14-22:19:31.041 3 Reusing MANIFEST /home/simeon/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/14-22:19:31.043 3 Recovering log #69
+2021/03/14-22:19:31.044 3 Level-0 table #72: started
+2021/03/14-22:19:31.060 3 Level-0 table #72: 17769 bytes OK
+2021/03/14-22:19:31.061 3 Recovering log #72
+2021/03/14-22:19:31.062 3 Reusing old log /home/simeon/.config/chromium/Default/Local Storage/leveldb/000072.log 
+2021/03/14-22:19:31.070 3 Delete type=0 #69

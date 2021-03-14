@@ -1,0 +1,5 @@
+2021/03/13-13:07:05.617 20f9 Reusing MANIFEST /home/simeon/.config/chromium/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/13-13:08:03.124 2048 Level-0 table #5: started
+2021/03/13-13:08:03.128 2048 Level-0 table #5: 2084 bytes OK
+2021/03/13-13:08:03.130 2048 Delete type=0 #3
+2021/03/13-13:08:03.130 2048 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/03/14-19:06:17.620 717c Reusing MANIFEST /home/simeon/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/14-19:06:17.620 717c Recovering log #4
+2021/03/14-19:06:17.620 717c Reusing old log /home/simeon/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
+2021/03/14-19:06:22.022 7136 Level-0 table #8: started
+2021/03/14-19:06:22.025 7136 Level-0 table #8: 1522 bytes OK
+2021/03/14-19:06:22.028 7136 Delete type=0 #4
+2021/03/14-19:06:22.028 7136 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/14-19:06:22.028 7136 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x1d\x001\x001\x006\x007\x005\x004\x001\x000\x000\x003\x003\x004\x006\x007\x002\x003\x007\x009\x008\x001\x005\x00:\x001\x00:\x00#\x00:\x00r\x00i\x00d' @ 626 : 1
+2021/03/14-19:06:22.028 7136 Compacting 1@1 + 1@2 files
+2021/03/14-19:06:22.031 7136 Generated table #9@1: 72 keys, 12945 bytes
+2021/03/14-19:06:22.031 7136 Compacted 1@1 + 1@2 files => 12945 bytes
+2021/03/14-19:06:22.033 7136 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/14-19:06:22.033 7136 Delete type=2 #5
+2021/03/14-19:06:22.033 7136 Delete type=2 #8
+2021/03/14-19:06:22.034 7136 Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x1d\x001\x001\x006\x007\x005\x004\x001\x000\x000\x003\x003\x004\x006\x007\x002\x003\x007\x009\x008\x001\x005\x00:\x001\x00:\x00#\x00:\x00r\x00i\x00d' @ 626 : 1 .. (end); will stop at (end)
