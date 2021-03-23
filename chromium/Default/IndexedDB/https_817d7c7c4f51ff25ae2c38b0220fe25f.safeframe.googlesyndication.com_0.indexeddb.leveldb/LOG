@@ -1,5 +1,0 @@
-2021/03/12-22:32:35.237 6c0 Reusing MANIFEST /home/simeon/.config/chromium/Default/IndexedDB/https_817d7c7c4f51ff25ae2c38b0220fe25f.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/12-22:32:50.700 919 Level-0 table #5: started
-2021/03/12-22:32:50.704 919 Level-0 table #5: 439 bytes OK
-2021/03/12-22:32:50.707 919 Delete type=0 #3
-2021/03/12-22:32:50.707 919 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

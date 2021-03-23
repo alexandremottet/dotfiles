@@ -1,5 +1,0 @@
-2021/03/13-14:47:27.551 6fb5 Reusing MANIFEST /home/simeon/.config/chromium/Default/IndexedDB/https_lichess.org_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/13-14:48:39.485 10e0e Level-0 table #5: started
-2021/03/13-14:48:39.487 10e0e Level-0 table #5: 1543 bytes OK
-2021/03/13-14:48:39.489 10e0e Delete type=0 #3
-2021/03/13-14:48:39.490 10e0e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,5 +1,0 @@
-2021/03/09-23:13:26.515 14fb Reusing MANIFEST /home/simeon/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/09-23:14:38.899 147a Level-0 table #5: started
-2021/03/09-23:14:38.902 147a Level-0 table #5: 16226 bytes OK
-2021/03/09-23:14:38.904 147a Delete type=0 #3
-2021/03/09-23:14:38.904 147a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
