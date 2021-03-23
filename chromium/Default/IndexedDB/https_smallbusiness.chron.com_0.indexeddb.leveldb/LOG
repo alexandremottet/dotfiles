@@ -1,5 +1,0 @@
-2021/03/12-22:32:30.833 6c3 Reusing MANIFEST /home/simeon/.config/chromium/Default/IndexedDB/https_smallbusiness.chron.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/12-23:26:06.764 20f3 Level-0 table #5: started
-2021/03/12-23:26:06.767 20f3 Level-0 table #5: 101341 bytes OK
-2021/03/12-23:26:06.770 20f3 Delete type=0 #3
-2021/03/12-23:26:06.770 20f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
